@@ -132,6 +132,7 @@ local and global scope for variables
 '''
 (6)
 which type can be the key of a dict?
+==> keys in a python dict must be immutable
 '''
 #def main():
 #    #define an empty dictionary
